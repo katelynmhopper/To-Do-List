@@ -1,16 +1,16 @@
 body {
   margin: 0;
-  font-family: 'Arial';
+  font-family: 'Caveat', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: Arial;
+  font-family: 'Caveat', cursive;
 }
 
 .app {
-  background: #209cee;
+  background: teal;
   padding: 30px;
   height: 100vh;
 }
@@ -37,7 +37,7 @@ code {
 .input{
   width: 100%;
   box-sizing: border-box;
-  border: 0;
+  border: 5;
   border-radius: 4px;
   box-shadow: none;
   padding: 1rem;
